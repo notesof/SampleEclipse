@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+.div2{
+	margin: 20px;
+}
+input[type="radio"]{
+	margin-left: 30px;
+}
+.div3{
+	margin: 20px;
+	border: lightgrey 2px solid;
+}
+.div4{
+	margin-left: 20px;
+}
+.div5{
+	margin-bottom: 10px;
+}
+.fs2{
+	margin: 20px;
+	border: 2px lightgrey solid;
+}
+.div7{
+	margin: 20px;
+}
+button{
+	margin-left: 550px;
+	padding: 3px
+}
